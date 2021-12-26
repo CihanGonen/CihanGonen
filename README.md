@@ -10,7 +10,21 @@ In college I learned the theory of things and also practiced them with projects.
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="50" height:"50" />
+<div style='spacing-x:20px;'>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="50" height:"50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="html" width="50" height:"50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="html" width="50" height:"50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="html" width="50" height:"50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="html" width="50" height:"50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="html" width="50" height:"50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="html" width="50" height:"50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="html" width="50" height:"50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="html" width="50" height:"50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="html" width="50" height:"50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="html" width="50" height:"50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="html" width="50" height:"50" />
+  
+</div>
 
 <!--
 **CihanGonen/CihanGonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
