@@ -31,7 +31,7 @@ In college I learned the theory of things and also practiced them with projects.
 
 🖊️ Articles
 
-Check out my latest [articles](https://cihangonen.com/articles) about Javascript
+Check out my latest from my [web page](https://cihangonen.com) about Javascript
 
 ---
 
