@@ -8,6 +8,8 @@ Love creating useful web pages and share with my friends. Now I want to use my s
 
 In college I learned the theory of things and also practiced them with projects. We always tried to write code sustainable, reliable, and pure so I always care about my code quality. This way it can be understood by my team mates.
 
+---
+
 🧰 Toolbox
 
 <div style='spacing-x:20px;'>
@@ -23,8 +25,24 @@ In college I learned the theory of things and also practiced them with projects.
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="html" width="50" height:"50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="html" width="50" height:"50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="html" width="50" height:"50" />
-  
 </div>
+
+---
+
+🖊️ Articles
+
+Check out my latest [articles](https://cihangonen.com/articles) about Javascript
+
+---
+
+## 📈 My Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cihangonen&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Cihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=cihangonen&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!--
 **CihanGonen/CihanGonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
